@@ -5,7 +5,7 @@ Scraped columns of shopbop.com are explained as below:
 * category2_code: Shows different types of category 1 for Men contaning Men's Clothing, Men's Shoes, Men's Bags, Men's Accessories, Men's Sale and for Women including Clothing, Shoes, Bags, Jewelry & Accessories, Sale 
 * category3_code: Shows the color of product (if it has more than one, the first related color is printed)
 * website_name: Shows the name of website (www.shopbop.com)
-* country_code: Shows "CAD" as ISO 3 letter country code
+* country_code: Shows "CAN" as ISO 3 letter country code
 * currency_code: Shows "CAD" as ISO 3 letter currency code
 * product_code: Shows a unique product code
 * brand: Shows the brand of related product
