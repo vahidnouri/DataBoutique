@@ -1,4 +1,5 @@
 Scraped columns of shopbop.com are explained as below:
+
 title: Shows name of each product which reveals on the website
 category1_code: Shows different gender categories containing mens and womens
 category2_code: Shows different types of category 1 for Men contaning Men's Clothing, Men's Shoes, Men's Bags, Men's Accessories, Men's Sale and for Women including Clothing, Shoes, Bags, Jewelry & Accessories, Sale 
