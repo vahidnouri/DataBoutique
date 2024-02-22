@@ -5,7 +5,7 @@
 * title: Shows name of each product which reveals on the website
 * category1_code: Shows different gender categories containing men, women, kids
 * category2_code: Shows different types of category 1 for Men like clothing, shoes and accessories 
-* category3_code: Checks if the item is Unisex or not. If it is Unisex shows True, otherwise, shows False
+* category3_code: Shows second category based on category2_code like types of shoes, clothing or accessories.
 * website_name: Shows the name of website (www.adidas.co.uk)
 * country_code: Shows "GBR" as ISO 3 letter country code
 * currency_code: Shows "GBP" as ISO 3 letter currency code
