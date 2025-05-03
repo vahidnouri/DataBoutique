@@ -3,7 +3,7 @@
 *  title: Shows name of each product which reveals on the website
 * category1_code: Shows different gender categories containing men, women, boys and girls
 * category2_code: Shows different types of glasses based on the website filtering including Sunglasses, Prescription Sunglasses and Eyeglasses
-* category3_code: This category is currently empty and exists only to comply with the accepted format of DataBoutique.com.
+* category3_code: Shows if the related product is a Best Seller product or not. 
 * website_name: Shows the name of website (www.framesdirect.com)
 * country_code: Shows "USA" as ISO 3 letter country code
 * currency_code: Shows "USD" as ISO 3 letter currency code
